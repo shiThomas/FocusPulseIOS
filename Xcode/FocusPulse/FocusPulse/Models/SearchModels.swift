@@ -1,5 +1,6 @@
 import Foundation
 
 enum SearchMode {
-    case quick, deep
+    case quick
+    case deep
 } 
